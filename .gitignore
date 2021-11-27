@@ -15,5 +15,9 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+*.sln
 *.code-workspace
+desktop.ini
+.vs/
+tye.yaml
 
